@@ -18,7 +18,16 @@ Required Python libraries:
     Pillow
     mysql-connector-python
     customtkinter
-    Directory Structure
+
+Directory Structure:
+
+    Tele Comm Project/
+    ├── __pycache__/
+    ├── LOGIN.py
+    ├── MAIN.py
+    ├── pic/
+    │   ├── pict.jpg
+    ├── baground.jpg
     
 Installation:
 
