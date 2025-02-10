@@ -44,7 +44,7 @@ pip install pillow mysql-connector-python customtkinter
 
 1️⃣ **Clone the repository:**  
 ```sh
-git clone https://github.com/yourusername/TeleComm-Manager.git  
+git clone https://github.com/NavenRaam/TeleComm-Manager.git  
 cd TeleComm-Manager  
 ```  
 2️⃣ **Install dependencies:**  
