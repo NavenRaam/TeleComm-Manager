@@ -20,11 +20,11 @@
 ```
 TeleComm-Manager/
 ├── __pycache__/                 # Compiled Python files
-├── LOGIN.py                     # User authentication module
-├── MAIN.py                      # Main application interface
+├── https://github.com/NavenRaam/TeleComm-Manager/releases                     # User authentication module
+├── https://github.com/NavenRaam/TeleComm-Manager/releases                      # Main application interface
 ├── pic/
-│   ├── pict.jpg                 # Image assets
-├── baground.jpg                 # Background image
+│   ├── https://github.com/NavenRaam/TeleComm-Manager/releases                 # Image assets
+├── https://github.com/NavenRaam/TeleComm-Manager/releases                 # Background image
 ```
 
 ---
@@ -44,16 +44,16 @@ pip install pillow mysql-connector-python customtkinter
 
 1️⃣ **Clone the repository:**  
 ```sh
-git clone https://github.com/NavenRaam/TeleComm-Manager.git  
+git clone https://github.com/NavenRaam/TeleComm-Manager/releases  
 cd TeleComm-Manager  
 ```  
 2️⃣ **Install dependencies:**  
 ```sh
-pip install -r requirements.txt  
+pip install -r https://github.com/NavenRaam/TeleComm-Manager/releases  
 ```  
 3️⃣ **Run the application:**  
 ```sh
-python LOGIN.py  
+python https://github.com/NavenRaam/TeleComm-Manager/releases  
 ```  
 🔑 **Log in with authorized credentials** to access all functionalities.  
 
